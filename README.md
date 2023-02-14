@@ -19,6 +19,10 @@ To get started with ChatAI, you can visit the demo at https://chatai-tau.vercel.
 3. Node.js (a JavaScript runtime environment)
 4. OpenAI API (for the language model)
 
+## Screenshots
+
+![Screenshot (843)](https://user-images.githubusercontent.com/72490093/218767566-c636bcb3-369b-49d5-b9bc-c36f99cacc6a.png)
+
 ## Credits
 This project uses OpenAI's GPT-3 language model, which requires an API key to function. The OpenAI API has a credit system, and the demo might not work if the credit expires. The repository owner is not responsible for any charges incurred by using the OpenAI API.
 
