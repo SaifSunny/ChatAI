@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Alegreya Sans", sans-serif;
+
 }
 
 body {
@@ -35,8 +36,10 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 
+  padding-top:20px;
   padding-bottom: 20px;
   scroll-behavior: smooth;
+  margin-top: 30px;
 }
 
 /* hides scrollbar */
@@ -94,6 +97,7 @@ body {
 
   max-width: 100%;
   overflow-x: scroll;
+  margin: 5px 15px;
 
   /*
    * white space refers to any spaces, tabs, or newline characters that are used to format the CSS code
@@ -115,7 +119,7 @@ body {
 form {
   width: 100%;
   max-width: 1280px;
-  margin: 0 auto;
+  margin: 2% auto;
   padding: 10px;
   background: #40414F;
 
